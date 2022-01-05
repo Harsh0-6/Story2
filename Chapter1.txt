@@ -1,1 +1,2 @@
 yo yo git is a version conrol system.
+github is platform to host remote repository.
